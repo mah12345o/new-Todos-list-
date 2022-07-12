@@ -1,0 +1,15 @@
+html{
+  background-color: hsl(180, 81%, 19%);
+}
+
+.container-fluid{
+  background-color:hsl(180, 81%, 19%);
+}
+input[type="text"]:focus{
+  background: transparent;
+  color: white;
+}
+input[type="text"]{
+  background: transparent;
+  color: white;
+}
